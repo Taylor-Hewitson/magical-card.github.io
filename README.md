@@ -1,1 +1,1 @@
-# magical-card.github.io
+# https://church0mouse.github.io/magical-card.github.io/
