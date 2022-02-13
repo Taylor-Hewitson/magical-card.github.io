@@ -1,1 +1,2 @@
-# https://church0mouse.github.io/magical-card.github.io/
+# Magical card
+ developing a web card that flips and glows like a tarot card
